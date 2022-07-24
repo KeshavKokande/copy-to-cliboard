@@ -1,0 +1,33 @@
+body{
+    margin-top: 3%;
+    background: linear-gradient(120deg,
+        #d86425,#9c4333,#0f8a15);
+}
+h1{
+    text-align: center;
+    padding: 10px;
+    font-family: cursive;
+}
+.one, .two, .three{
+    text-align: center;
+}
+.three, .two{
+    margin-top: 50px;
+}
+textarea{
+    background-color: #5f7b84;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 25px;
+    color: #75087f;
+    font-size: 15px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+button{
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: rgb(234, 168, 83);
+    font-size: 20px;
+    margin-right: 20px;
+    font-family: cursive;
+}
